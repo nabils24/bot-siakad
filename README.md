@@ -5,6 +5,9 @@ Bot siakad yang otomatis masuk ke web dan absen secara langsung jadi tidak ribet
 ### Pengen coba?
 
 1. Clone this repo 
+```
+git clone https://github.com/nabils24/bot-siakad 
+```
 
 2. Buat apps di heroku, tutorial ada diyt banyak cari aja ya bang
 
